@@ -1,0 +1,41 @@
+WP-Instaroll - TODOs
+====================
+
+
+next version
+------------
+
+- checkbox near the "go to draft posts" button in photo stream panels, enabling/disabling the automatic redirect to just created post edit page (both for draft and directly published posts) (suggestion by 'shacker'), or in main panel, or post creation confirmation dialog with ok and go to post buttons
+- photo insertion mode: both (suggestion by 'pookeyblow')
+- in case direct publish of created post is enabled, don't show the "go to draft posts" button in photo stream panels
+- for photos added inside the post, possibility of choosing if the image must link to Instagram post or not
+- support for post formats (suggestion by 'matchavez')
+- possibility, when creating a post from an Instagram photo, to create it as standard post or custom post type (chhosing from a dropdown list and, later, with the possibility of directly creating custom post types) (suggestion by 'andri86')
+
+soon
+----
+
+- multilanguage localization
+- help panel(s)
+- for photos added inside the post, possibility of adding Instagram username to tag posts
+- for photos directly inserted inside posts, possibility of choosing image size (now fullsize)
+- being able to specify which user must be used for post creation
+- possibility, for tag panel, to set the search tag directly from there
+- adding user photos panel and tag panel checkboxes to main settings as well
+
+to be done later
+----------------
+
+- possibility of automatically create posts:
+	- automatically publish or save as draft, independent from manual post creation
+	- option to use a different category for automatically selected posts
+- category to be used for posts:
+	- show list of available categories (only one is selectable)
+	- input box with add button, for creating a new category
+- search tag and category input error handling
+- possibility of using multiple search tags (comma separated)
+- more images downloaded, saving previous update last image id
+- possibility of using WordPress shortcodes (that can be copied directly from photos panels) for inserting photos+choosen data wherever a shortcode can be used
+- WordPress shortcode for inserting, inside a post or page, a live stream with the last n photos, from the specified stream, with the specified format (suggestion by 'bhomatude')
+- WordPress shortcode for inserting, inside a post or page, a gallery of n posts with a specific hashtag, etc... (suggestion by 'pookeyblow')
+- make Instagram metadate added to posts created from Instagram photos visible someway (suggestion by 'robinparker')
